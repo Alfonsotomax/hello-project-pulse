@@ -1984,7 +1984,7 @@ The student shall be able to cancel the use case at any time prior to submitting
 **Business Rules:**
 
 **Associated Information:**
-- Details: The student can add activities to a WAR. For each activity, the student shall provide the following: Activity category: DEVELOPMENT, TESTING, BUGFIX, COMMUNICATION, DOCUMENTATION, DESIGN, PLANNING, LEARNING, DEPLOYMENT, SUPPORT, MISCELLANEOUS Activity Description Planned hours Actual hours Status: In progress, Under testing, Done. The above properties are editable. The student shall be able to cancel the use case at any time prior to submitting it.
+- Details: The student can add activities to a WAR. For each activity, the student shall provide the following: Activity category: DEVELOPMENT, TESTING, BUGFIX, COMMUNICATION, DOCUMENTATION, DESIGN, PLANNING, LEARNING, DEPLOYMENT, SUPPORT, MISCELLANEOUS. Activity Description, Planned hours, Actual hours, Status: IN_PROGRESS, COMPLETED. The above properties are editable. The student shall be able to cancel the use case at any time prior to submitting it.
 
 **Assumptions:**
 **Open Issues:**
